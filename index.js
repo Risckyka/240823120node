@@ -1,6 +1,6 @@
 console.log("hello")
 
-a = 7
+a = 8
 
 if(a%2==0){
     console.log("even")
